@@ -1,6 +1,6 @@
 import { ArrowUpRight } from "lucide-react";
 import { Link } from "react-router-dom";
-import profile from "../assets/profile.jpg";
+import profile from "../assets/profile.JPG";
 
 const socials = [
   { name: "Instagram", url: "https://www.instagram.com/ridho.14alba/" },
