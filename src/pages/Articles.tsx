@@ -87,27 +87,22 @@ export default function Articles() {
 
         <div className="socials">
 
-          <a href="#">
+          <a href="https://www.instagram.com/ridho.14alba/">
             Instagram
             <ArrowUpRight size={14} />
           </a>
 
-          <a href="#">
+          <a href="https://github.com/ridhoalba">
             GitHub
             <ArrowUpRight size={14} />
           </a>
 
-          <a href="#">
+          <a href="https://www.linkedin.com/in/ridho-alba-bb2a55431/">
             LinkedIn
             <ArrowUpRight size={14} />
           </a>
 
-          <a href="#">
-            WhatsApp
-            <ArrowUpRight size={14} />
-          </a>
-
-          <a href="mailto:hello@example.com">
+          <a href="mailto:ridhoalba461.space@gmail.com">
             Email
             <ArrowUpRight size={14} />
           </a>
