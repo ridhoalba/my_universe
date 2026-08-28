@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 import profile from "../assets/profile.jpg";
 
 const socials = [
-  { name: "Instagram", url: "https://www.instagram.com/rraxyzu_191/" },
-  { name: "GitHub", url: "https://github.com/rraxyzu" },
+  { name: "Instagram", url: "https://www.instagram.com/ridho.14alba/" },
+  { name: "GitHub", url: "https://github.com/ridhoalba" },
   {name: "LinkedIn", url: "https://www.linkedin.com/in/ridho-alba-bb2a55431/"},
   { name: "Email", url: "mailto:ridhoalba461.space@gmail.com" },
 ];
